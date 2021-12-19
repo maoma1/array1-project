@@ -11,14 +11,4 @@ function getArrayComponents(a,n) {
 }
 console.log(myList,3)
 
-let myArray = ['woman of substance', 'power of your mind', 'how to make your faith work', 'the holyspirit and you'];
-let news = ['a', 'b', 'c', 'd']
-
-function newArray(a,n) {
-    let result = a.slice(0,n);
-    return result;
-}
-
-console.log(newArray(myArray ,2))
- 
 
